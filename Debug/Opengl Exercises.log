@@ -1,0 +1,3 @@
+﻿  Application.cpp
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Opengl Exercises.vcxproj -> C:\Users\C Programiranje\Desktop\Desktop\domsut\Opengl-Exercises\Debug\Opengl Exercises.exe
