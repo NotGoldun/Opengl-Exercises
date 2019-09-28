@@ -1,2 +1,30 @@
 ﻿  Application.cpp
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(35): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(37): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(38): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(46): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(50): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(51): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(52): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(53): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(55): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(56): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(120): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(121): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(122): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(124): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(125): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(128): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(129): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(130): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(140): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(142): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(149): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(158): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(159): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(160): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\c programiranje\desktop\desktop\domsut\opengl-exercises\application.cpp(179): warning C4390: ';': empty controlled statement found; is this the intent?
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\C Programiranje\Desktop\Desktop\domsut\Opengl-Exercises\Debug\vc120.pdb'; linking object as if no debug info
   Opengl Exercises.vcxproj -> C:\Users\C Programiranje\Desktop\Desktop\domsut\Opengl-Exercises\Debug\Opengl Exercises.exe
